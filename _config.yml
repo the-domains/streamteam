@@ -1,0 +1,14 @@
+layout_spectrum: 0.5519234398379922
+typography_spectrum: 0.19023943995125592
+color:
+  brandStrength: 0.022608152823522687
+  lightness: 0.4990942752920091
+  saturation: 0.49925529723986983
+  rhythmicContrast: 0.6566197080537677
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: StreamTeam
