@@ -1,4 +1,3 @@
-layout_spectrum: 0.5519234398379922
 typography_spectrum: 0.19023943995125592
 color:
   brandStrength: 0.022608152823522687
@@ -11,5 +10,7 @@ color:
     - '#FFFFFF'
     - '#8C8C8E'
     - '#C6C6C7'
+layout_spectrum: 0.5519234398379922
 name: StreamTeam
 title: StreamTeam
+description: Expand Your Reach
